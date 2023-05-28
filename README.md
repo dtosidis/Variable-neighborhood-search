@@ -1,2 +1,2 @@
 # Variable Neighborhood
-Variable Neighborhood Search p-median problem
+Variable neighborhood search for the p-median problem
